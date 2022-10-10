@@ -12,13 +12,17 @@ body {
   font-family: PT Sans;
 }
 
+h1 {
+  margin-top: 2rem
+}
+
 .header {
-  width: 100%;
+  width: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-top: 2rem;
+  margin-top: 0.5rem;
   padding: 0.5rem;
 }
 .headerBox {
